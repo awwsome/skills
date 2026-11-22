@@ -1,0 +1,12 @@
+{
+  "name": "awwsome",
+  "description": "awwsome의 개인 스킬 모음",
+  "owner": { "name": "awwsome", "url": "https://github.com/awwsome" },
+  "plugins": [
+    {
+      "name": "awwsome-skills",
+      "source": "./",
+      "description": "adhd 모드와 oc 모드 스킬, /adhd 명령, adhd 상기 훅"
+    }
+  ]
+}

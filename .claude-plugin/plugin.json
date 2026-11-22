@@ -1,0 +1,10 @@
+{
+  "name": "awwsome-skills",
+  "version": "1.0.0",
+  "description": "adhd 모드(결정 질문을 쉽게, 추천안과 함께)와 oc 모드(오케스트레이터) 스킬, /adhd 명령, adhd 상기 훅",
+  "author": { "name": "awwsome", "url": "https://github.com/awwsome" },
+  "homepage": "https://github.com/awwsome/skills",
+  "repository": "https://github.com/awwsome/skills",
+  "license": "MIT",
+  "keywords": ["skills", "korean", "adhd", "orchestrator"]
+}
